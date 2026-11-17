@@ -1,0 +1,8 @@
+#never upload your secrets(API keys, tokens)
+.env
+
+#python's auto-generated cache folder, not real code, no need to share it
+__pycache__/  
+
+#complie python file,same reason
+*.pyc       
